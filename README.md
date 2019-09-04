@@ -1,1 +1,1 @@
-programa que verifica se três valores informados formam um trinângulo, utilizando programação orientada a objetos <br>
+Programa que verifica se três valores informados formam um trinângulo, utilizando programação orientada a objetos <br>

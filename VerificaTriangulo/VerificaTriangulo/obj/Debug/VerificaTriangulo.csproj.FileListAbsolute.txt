@@ -1,0 +1,7 @@
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.exe.config
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.exe
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\bin\Debug\VerificaTriangulo.pdb
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.csprojAssemblyReference.cache
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.exe
+C:\Users\Gabriel Renan\Desktop\VerificaTriangulo\VerificaTriangulo\obj\Debug\VerificaTriangulo.pdb
